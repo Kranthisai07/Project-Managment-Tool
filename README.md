@@ -1,7 +1,3 @@
-Sure! Here's a concise description that you can use to post the provided code on GitHub:
-
----
-
 **Project Management Tool**
 
 This repository contains the code for a web-based project management tool. The tool allows users to manage projects, tasks, and their statuses, along with a chatbox for communication. The code includes HTML, CSS, and JavaScript components that create an interactive and visually appealing interface.
