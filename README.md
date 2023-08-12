@@ -1,4 +1,4 @@
-**Project Management Tool**
+***Project Management Tool***
 
 This repository contains the code for a web-based project management tool. The tool allows users to manage projects, tasks, and their statuses, along with a chatbox for communication. The code includes HTML, CSS, and JavaScript components that create an interactive and visually appealing interface.
 
@@ -23,7 +23,3 @@ This repository contains the code for a web-based project management tool. The t
 - Bootstrap 4
 
 Feel free to contribute, modify, or adapt this code for your own project management needs. If you encounter any issues or have suggestions for improvements, please create an issue or pull request.
-
----
-
-Remember to adjust the description according to your repository's specific details and any additional information you'd like to include.
